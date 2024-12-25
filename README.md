@@ -1,6 +1,6 @@
 # Recruit.ai
 
-Automating first round selections in recruitment process. As an alternative to resumes, candidates are supposed to send introduction videos. Emotional analysis would be performed on these videos using LLaVa. Their transcript would be analyzed to get the details of the candidate. Finally, a decision would be given on whether to select the candidate or not.
+This project automates the first round of recruitment by replacing traditional resumes with candidate introduction videos. Emotional analysis is conducted on the videos using LLAVA to assess engagement and expressions, while the video transcripts are analyzed to extract key details like qualifications, skills, and experience. Based on these insights, an automated decision is generated to determine whether the candidate advances to the next round.
 
 ## Run the webapp
 1. Clone this repository
