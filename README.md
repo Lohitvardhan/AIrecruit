@@ -4,9 +4,9 @@ Automating first round selections in recruitment process. As an alternative to r
 
 ## Run the webapp
 1. Clone this repository
-2. Install the necessary python libraries
+2. You can run below command in windows so that it will install necessary python libraries
 ```
-  pip install requirements.txt
+  pip install -r requirements.txt
 
 ```
 3. Create an .env file with the following data
@@ -14,7 +14,7 @@ Automating first round selections in recruitment process. As an alternative to r
   LLAVA_ENDPOINT = "<your_llava_endpoint_url>"
 
 ```
-4. Run the Flask app
+4. Finally, run the Flask app
 ```
   python app.py
 
